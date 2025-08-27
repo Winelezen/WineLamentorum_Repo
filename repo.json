@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "REDACTED",
+        "Name": "Wine Lamentorum",
+        "InternalName": "WineLamentorum",
+        "AssemblyVersion": "1.0.1.2",
+	"TestAssemblyVersion": "1.0.1.2",
+        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/MareSynchronos/client",
+        "Tags": [
+          "customization"
+        ],
+        "DalamudApiLevel": 13,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/MareSynchronos/repo/main/MareSynchronos/images/icon.png",
+        "Punchline": "Let others see you as you see yourself.",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://github.com/Winelezen/WineLamentorum_Repo/releases/download/v1.0.1.2/WineLamentorum_1.0.1.2.zip",
+        "DownloadLinkTesting": "https://github.com/Winelezen/WineLamentorum_Repo/releases/download/v1.0.1.2/WineLamentorum_1.0.1.2.zip",
+        "DownloadLinkUpdate": "https://github.com/Winelezen/WineLamentorum_Repo/releases/download/v1.0.1.2/WineLamentorum_1.0.1.2.zip"
+      }
+]
